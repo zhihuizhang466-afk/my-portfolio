@@ -1,7 +1,6 @@
 // src/App.js
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail } from "lucide-react";
 import "./index.css";
 import "./App.css";
 
